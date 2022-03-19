@@ -2,4 +2,4 @@
 
 Neural Network Sample codes from NumPy to PyTorch
 
-Check [readme.ipynb](https://github.com/xhinker/nn_sample_code/blob/main/readme.ipynb) for more info. 
+Check [readme.ipynb](https://github.com/xhinker/nn_sample_code/blob/main/nn_learn_note.ipynb) for more info. 
