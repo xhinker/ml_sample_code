@@ -1,7 +1,0 @@
-{
-    "window.title": "${rootName}",
-    "files.autoSave":"afterDelay",
-    "editor.tabCompletion":"on",
-    "editor.renderIndentGuides": true,
-    "terminal.integrated.fontFamily": "MesloLGS NF",
-}
