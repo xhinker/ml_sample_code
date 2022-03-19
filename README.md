@@ -23,4 +23,9 @@ Ok, think tensor as multi-dimensional array with a bunch of functions,like forwa
 
 ## Test 
 
-- <img src="https://latex.codecogs.com/png.latex?O_t=\text { Onset event at time bin } t " /> 
+$$
+A = \frac{123}{456}
+$$
+
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+
