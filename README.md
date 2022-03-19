@@ -23,8 +23,4 @@ Ok, think tensor as multi-dimensional array with a bunch of functions,like forwa
 
 ## Test 
 
-$$
-A = \frac{123}{456}
-$$
-
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
