@@ -26,8 +26,8 @@ x_val       = x_val.to_numpy()
 print('data prepare done')
 
 #%%test
-for x in x_val:
-    print(x.shape)
+# for x in x_val:
+#     print(x.shape)
 
 #%% define model
 class DeepNeuralNetwork():
