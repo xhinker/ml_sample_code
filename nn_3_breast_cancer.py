@@ -6,8 +6,7 @@ import numpy as np
 # prepare data
 bc = datasets.load_breast_cancer()
 X,y = bc.data,bc.target
-n_samples,n_features = X.shape
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=1234)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=1234)
 
 # transform to the standard dataset
 sc      = StandardScaler()
@@ -49,7 +48,7 @@ def acc(x,y):
         if y_pred==y[i]:
             correct += 1
         else:
-            print(f'y_pred_raw:{y_pred_raw}| y_pred:{y_pred} | y:{y[i]}')
+            #print(f'y_pred_raw:{y_pred_raw}| y_pred:{y_pred} | y:{y[i]}')
             continue
     return correct/len(y)
 
